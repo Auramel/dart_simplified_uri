@@ -3,8 +3,8 @@ description: >
   A lightweight Dart utility for generating query parameter URLs from nested maps and lists.
   Supports deeply nested structures and encodes values properly.
 
-version: 1.0.0
-repository: https://github.com/Auramel/simplified_uri
+version: 1.0.1
+repository: https://github.com/Auramel/dart_simplified_uri
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
